@@ -1,0 +1,1 @@
+from src.GenerateReports import generate_reports
