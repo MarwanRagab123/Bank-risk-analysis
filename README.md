@@ -12,7 +12,7 @@
 ║                                                                            ║
 ║                            Project ITI                                    ║
 ║                                                                            ║
-║        Advanced Analytics  |  Machine Learning  |  Risk Intelligence        ║
+║               Advanced Analytics   |  Risk Intelligence        ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
