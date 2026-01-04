@@ -1,3 +1,22 @@
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ███████╗██████╗  █████╗ ██╗   ██╗██████╗     █████╗ ███╗   ██╗            ║
+║   ██╔════╝██╔══██╗██╔══██╗██║   ██║██╔══██╗   ██╔══██╗████╗  ██║            ║
+║   █████╗  ██████╔╝███████║██║   ██║██║  ██║   ███████║██╔██╗ ██║            ║
+║   ██╔══╝  ██╔══██╗██╔══██║██║   ██║██║  ██║   ██╔══██║██║╚██╗██║            ║
+║   ██║     ██║  ██║██║  ██║╚██████╔╝██████╔╝   ██║  ██║██║ ╚████║            ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝  ╚═╝╚═╝  ╚═══╝            ║
+║                                                                            ║
+║              Bank Transaction Fraud Detection System                      ║
+║                                                                            ║
+║                            Project ITI                                    ║
+║                                                                            ║
+║        Advanced Analytics  |  Machine Learning  |  Risk Intelligence        ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
 # Bank Analysis
 
 **Bank Analysis** is a comprehensive end-to-end pipeline for analyzing bank transaction data and detecting fraudulent activity. It loads transaction data, performs data cleaning, builds advanced analytical features, computes customer risk scores using statistical methods, flags suspicious transactions, and exports professional reports in multiple formats (CSV, TXT, PDF).
